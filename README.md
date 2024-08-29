@@ -1,1 +1,1 @@
-# Streamlit-medical-charge-model
+# Streamlit-medical-charges-Prediction-model
